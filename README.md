@@ -1,0 +1,2 @@
+# LLM-course
+about AI
